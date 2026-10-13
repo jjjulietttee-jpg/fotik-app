@@ -1,0 +1,23 @@
+# Fotik
+
+> Your gallery fills up quietly. Duplicates, similar shots, screenshots, screen recordings, blurry photos and oversized videos pile up without you noticing — until your phone refuses to save one more photo.
+
+Photo Storage Cleaner – Fotik — Clear space in camera roll. iPhone app, available on the App Store: https://apps.apple.com/app/id6806154654?pt=128839649&ct=ai_web
+
+## Guides
+
+- [How to Delete Duplicate Photos on iPhone](https://jjjulietttee-jpg.github.io/fotik-app/delete-duplicate-photos-on-iphone): Find duplicate and similar photos and decide which to keep, using Fotik.
+- [How to Delete All Screenshots and Screen Recordings on iPhone](https://jjjulietttee-jpg.github.io/fotik-app/delete-screenshots-and-screen-recordings-on-iphone): Clear old screenshots and screen recordings in a few swipes with Fotik.
+- [How to Free Up Space From Your iPhone Photo Library](https://jjjulietttee-jpg.github.io/fotik-app/free-up-space-on-iphone-photos): Find the biggest and most redundant files in your gallery and clear them with Fotik.
+- [Why iPhone Storage Isn't Freed After Deleting Photos](https://jjjulietttee-jpg.github.io/fotik-app/why-iphone-storage-not-freed-after-deleting-photos): Deleted photos stay in Recently Deleted for 30 days. Here is how to free the space for real.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/fotik-app/): what Fotik does, features, pricing
+- [App Store](https://apps.apple.com/app/id6806154654?pt=128839649&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/fotik-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/fotik-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/fotik-app/terms)
